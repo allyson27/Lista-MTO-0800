@@ -1,0 +1,122 @@
+<?xml version=“1.0” encoding=“utf-8”?> standalone="yes"?>
+ 
+<channels>
+<channels_info>
+<title>[COLOR White]Canais de TV[/COLOR]</title>
+<genre>IPTV</genre>
+<description>Lista de Canais IPTV</description>
+<thumbnail>http://megatvonline0800.1apps.com/imagens/logo.png</thumbnail>
+<fanart>http://i64.tinypic.com/2hmzuxc.jpg</fanart>
+<date>15.05.2016</date>
+<credits>MTO 0800</credits>
+</channels_info>
+ 
+<channels>
+<channel>
+<name>[COLOR cyan[/COLOR][COLOR White] TV Aberta [/COLOR]</name>
+<thumbnail>http://i66.tinypic.com/rbacyx.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>http://pastebin.com/raw/Tw3DJvRW</externallink>
+</channel>
+</channels>
+ 
+<channels>
+<channel>
+<name>[COLOR cyan[/COLOR][COLOR White] Músicas & Variedades [/COLOR]</name>
+<thumbnail>http://i67.tinypic.com/285q39.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>http://pastebin.com/raw/tkgn2rL7</externallink>
+</channel>
+</channels>
+ 
+<channesl>
+<channel>
+<name>[COLOR cyan[/COLOR][COLOR White] Filmes e Séries [/COLOR]</name>
+<thumbnail>http://i63.tinypic.com/257lueo.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>http://pastebin.com/raw/qL2pQJcg</externallink>
+</channel>
+</channels>
+ 
+<channesl>
+<channel>
+<name>[COLOR cyan[/COLOR][COLOR White] Infantil [/COLOR]</name>
+<thumbnail>http://i67.tinypic.com/123oeab.png</thumbnail>
+<fanart>http://i66.tinypic.com/sowvvr.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://pastebin.com/raw/Yv2c4ceN</externallink>
+</channel>
+</channels>
+ 
+<channesl>
+<channel>
+<name>[COLOR cyan[/COLOR][COLOR White] Desenhos 24 Horas [/COLOR]</name>
+<thumbnail> </thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>http://pastebin.com/raw/uWKeXB50</externallink>
+</channel>
+</channels>
+ 
+<channesl>
+<channel>
+<name>[COLOR cyan[/COLOR][COLOR White] Séries 24 Horas [/COLOR]</name>
+<thumbnail> </thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>http://pastebin.com/raw/5rSKg4bW</externallink>
+</channel>
+</channels>
+ 
+<channesl>
+<channel>
+<name>[COLOR cyan[/COLOR][COLOR White] Documentários [/COLOR]</name>
+<thumbnail>http://i63.tinypic.com/n394wx.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>http://pastebin.com/raw/Ne3v8h7Q</externallink>
+</channel>
+</channels>
+ 
+<channesl>
+<channel>
+<name>[COLOR cyan[/COLOR][COLOR White] Esportes [/COLOR]</name>
+<thumbnail>http://i67.tinypic.com/6s7zgi.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>http://pastebin.com/raw/QyErYWTz</externallink>
+</channel>
+</channels>
+ 
+<channesl>
+<channel>
+<name>[COLOR cyan[/COLOR][COLOR White] Notícias [/COLOR]</name>
+<thumbnail>http://i68.tinypic.com/2mm5no5.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>http://pastebin.com/raw/k6cuBjUa</externallink>
+</channel>
+</channels>
+ 
+<channesl>
+<channel>
+<name>[COLOR cyan[/COLOR][COLOR White] Rádios FM [/COLOR]</name>
+<thumbnail>http://i66.tinypic.com/34ipmv8.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>http://pastebin.com/raw/zqr0PXzt</externallink>
+</channel>
+</channels>
+ 
+<channesl>
+<channel>
+<name>[COLOR cyan[/COLOR][COLOR White] Adulto + 18 [/COLOR]</name>
+<thumbnail> </thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>http://pastebin.com</externallink>
+</channel>
+</channels>
